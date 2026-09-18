@@ -1,7 +1,4 @@
-Ingredients:
-- Tomato
-- Green pepper
-- cilantro
-- jalapeno
+Tomato
+Green pepper
 
-Method
+Onion

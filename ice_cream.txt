@@ -1,5 +1,7 @@
 Ingredients
 - milk
 - vanilla
+- eggs
+- chocolate
 
 Eat it!
